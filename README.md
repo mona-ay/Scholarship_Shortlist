@@ -260,6 +260,7 @@ All algorithm implementation and logic were:
 - Adjusted to match assignment requirements
 - figma was used to draw flow chart
 No ai generated code, but code was based on sources reddit youtube and the lecture slides heavily influenced code
+- https://mona-ay.github.io/queens-student-page/
 
 Sources:
 - CISC 121 Lecture Slides
