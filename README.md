@@ -32,9 +32,9 @@ Merge Sort is especially suitable here because:
 
 ## Demo (screenshot of run)
 ### Completed
-![Completed](inaction2)
+![Completed](inaction2.png)
 ### In action
-![In action](inaction)
+![In action](inaction.png)
 ### gif
 ![gif](gif.gif)
 
