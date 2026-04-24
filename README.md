@@ -13,7 +13,7 @@ license: mit
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 
-# Project Title
+# Scholarship Shortlist
 ## Chosen Problem (1-2 sentences):
 This project solves the Scholarship Shortlist problem where applicants are ranked based on a computed final score using GPA, volunteer hours, and essay score. The goal is to sort applicants and display the top candidates clearly while visually demonstrating how the ranking is formed.
 
