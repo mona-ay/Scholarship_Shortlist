@@ -32,11 +32,11 @@ Merge Sort is especially suitable here because:
 
 ## Demo (screenshot of run)
 ### Completed
-![Completed](https://drive.google.com/file/d/13V0DXlRIFVaP4PxwkQp9aKxteVXLQDvz/view?usp=sharing)
+![Completed](inaction2)
 ### In action
-![In action](https://drive.google.com/file/d/1ZFKHzH8VRoMb0mTiXXR4-Bz6vh86o4_m/view?usp=sharing)
-### Video
-![video](https://drive.google.com/file/d/1hb36S7U29zznyCzJV8JXA10TiCb3QaoM/view?usp=sharing)
+![In action](inaction)
+### gif
+![gif](gif.gif)
 
 ## Problem Breakdown & Computational Thinking 
 
@@ -182,16 +182,16 @@ Sara,3.5,-10,85
 
 ## Actual Edge Case Testing (Screenshots)
 ### Edge Case 1: Empty input
-![empty case](https://drive.google.com/file/d/1GKyeiBCWR8DaD3DeXR-eoXc4uY5Kwc8c/view?usp=sharing)
+![empty case](emptycase.png)
 
 ### Edge Case 2: Invalid Format
-![invalif form](https://drive.google.com/file/d/1yijr9ffNu8eSXjVTVhvIBL4wkSzBDLdE/view?usp=sharing)
+![invalif form](invalidformat.png)
 
 ### Edge Case 3: Invalid Values
-![inv val](https://drive.google.com/file/d/197O5X2GwYWwGI_CCC-ZC6lQZOEkTKHRQ/view?usp=share_link)
+![inv val](invalidvalues.png)
 
 ### Edge Case 4: Negative Values
-![negative values](https://drive.google.com/file/d/1rFwaVB_vEdCP2ouHMZfB9vULzvCEAmyu/view?usp=sharing)
+![negative values](negativevalues.png)
 
 ## How to Run the project Online:
 1. Open the Hugging Face Space link.
