@@ -32,17 +32,17 @@ Merge Sort is especially suitable here because:
 
 ## Demo (screenshot of run)
 ### Completed
-![Completed](inaction2.png)
+![Completed](evidence/inaction2.png)
 ### In action
-![In action](inaction.png)
+![In action](evidence/inaction.png)
 ### gif
-![gif](gif.gif)
+![gif](evidence/gif.gif)
 
 ## Problem Breakdown & Computational Thinking 
 
 
 ### Flowchart
-![Flowchart](456789.png)
+![Flowchart](evidence/456789.png)
 
 
 ### Decomposition:
@@ -182,16 +182,16 @@ Sara,3.5,-10,85
 
 ## Actual Edge Case Testing (Screenshots)
 ### Edge Case 1: Empty input
-![empty case](emptycase.png)
+![empty case](evidence/emptycase.png)
 
 ### Edge Case 2: Invalid Format
-![invalif form](invalidformat.png)
+![invalif form](evidence/invalidformat.png)
 
 ### Edge Case 3: Invalid Values
-![inv val](invalidvalues.png)
+![inv val](evidence/invalidvalues.png)
 
 ### Edge Case 4: Negative Values
-![negative values](negativevalues.png)
+![negative values](evidence/negativevalues.png)
 
 ## How to Run the project Online:
 1. Open the Hugging Face Space link.
